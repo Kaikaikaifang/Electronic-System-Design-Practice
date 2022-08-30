@@ -1,0 +1,344 @@
+{
+  "uuid": "daa64284e3896adc92750b1b1ba45dc8",
+  "path": "Offline/%E5%85%B8%E5%9E%8B%E5%BE%AE%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E5%BC%80%E5%8F%91",
+  "name": "典型微控制系统设计开发",
+  "content": "",
+  "created_at": "2022-08-26 18:25:37",
+  "updated_at": "2022-08-30 11:54:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d2520e2ff1dc80097f4d2bb2e8a16935",
+      "title": "SCH",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8532ee452e3845278d4d9b9974a35489": 1,
+        "6e5f2e0d22bb43b8a68b0e5d6f6ff41c": 8,
+        "fcff959648984b5ab20aec0aab9ad5fa": 1,
+        "94c3c315ab7540e98d3ac2884755be77": 6,
+        "38526b10c2d261eed655f417e5e3f8f9": 1,
+        "d92655007ef84310a2c27f1204f3d884": 4,
+        "e4d89445f736ae18e5cd11ca33f02ba9": 2,
+        "185972ae91414fbaa12fc3848a16d82e": 1,
+        "43cfa1b6126d49ec90b793af9ceaf23a": 1,
+        "469bdf39918b42938d5acde5d15607b1": 1,
+        "3eef02aeed7b47db96a609a05215f7fa": 1,
+        "c7409a01d0c04b09ae3e3ed629b3c70a": 1,
+        "b5276715350444fc953c05ed7973d5e8": 1,
+        "82ee27212e7647e5a7daf183a5f8c027": 1,
+        "a19ebc7176dc4c609c249ecf0c5cddda": 1,
+        "06ced0f8380044cb959c943e69e72950": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "54101-T06-00",
+          4,
+          "HDR-TH_1P-P2.54-V-M",
+          "3V3,T2,T3,T4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C213463",
+            "BOM_Manufacturer": "Amphenol ICC",
+            "BOM_Manufacturer Part": "54101-T06-00",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "3036750d1d0a4e9fa4035186551a7693",
+            "uuid": "d92655007ef84310a2c27f1204f3d884"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "CAP-TH_BD5.0-P2.00-D0.6-FD",
+          "C1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2960200",
+            "BOM_Manufacturer": "HRK(鸿瑞凯电子)",
+            "BOM_Manufacturer Part": "50V10uF CD110",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "d174dc03399042dd9fe60a9cfe46ef2e",
+            "uuid": "c7409a01d0c04b09ae3e3ed629b3c70a"
+          }
+        ],
+        [
+          "100nF",
+          6,
+          "CAP-TH_L5.5-W2.5-P5.00-D1.0",
+          "C2,C17,C18,C19,C20,C21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "CT4-0805B104K500F3",
+            "BOM_Supplier Part": "C84772",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "2b3fbb5414f44fc7aab61b68e88a71b1",
+            "uuid": "94c3c315ab7540e98d3ac2884755be77"
+          }
+        ],
+        [
+          "1N5817_C169165",
+          1,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1",
+          {
+            "BOM_Supplier Part": "C169165",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "DIOFIT",
+            "BOM_Manufacturer Part": "1N5817",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "c2803222ad4b48fb94db0de548a6280a",
+            "uuid": "3eef02aeed7b47db96a609a05215f7fa"
+          }
+        ],
+        [
+          "TJ-L3FYTGHTFCLFLC2R-A5",
+          1,
+          "LED-TH_BD3.9-P2.54-FD",
+          "D2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C330746",
+            "BOM_Manufacturer": "TOGIALED",
+            "BOM_Manufacturer Part": "TJ-L3FYTGHTFCLFLC2R-A5",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "7d44990c66234bc2a29a866bfc3c5520",
+            "uuid": "a19ebc7176dc4c609c249ecf0c5cddda"
+          }
+        ],
+        [
+          "A72-065",
+          1,
+          "FUSE-TH_L9.7-W3.1-P5.10-D0.6-S1.50",
+          "F1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "JDTFUSE",
+            "BOM_Manufacturer Part": "A72-065",
+            "BOM_Supplier Part": "C135426",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ca0bf17b08674a46963bbfab0ef4c7f1",
+            "uuid": "469bdf39918b42938d5acde5d15607b1"
+          }
+        ],
+        [
+          "FOR_CN10",
+          1,
+          "HDR-TH_38P-P2.54-V-F-R2-C19-S2.54",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2897420",
+            "BOM_Manufacturer": "HCTL(华灿天禄)",
+            "BOM_Manufacturer Part": "PM254-2-19-Z-8.5",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "991fb3862fde4eee819f058d0a833d7a",
+            "uuid": "06ced0f8380044cb959c943e69e72950"
+          }
+        ],
+        [
+          "FOR_CN7",
+          1,
+          "HDR-TH_38P-P2.54-V-F-R2-C19-S2.54",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2897420",
+            "BOM_Manufacturer": "HCTL(华灿天禄)",
+            "BOM_Manufacturer Part": "PM254-2-19-Z-8.5",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "991fb3862fde4eee819f058d0a833d7a",
+            "uuid": "06ced0f8380044cb959c943e69e72950"
+          }
+        ],
+        [
+          "WJ124-3.81-3P",
+          1,
+          "CONN-TH_3P-P3.81_WJ124-3.81-3P",
+          "J6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ124-3.81-3P",
+            "BOM_Supplier Part": "C36780",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "26451eb86efa49429d9b50b4696b3b91",
+            "uuid": "38526b10c2d261eed655f417e5e3f8f9"
+          }
+        ],
+        [
+          "WJ124-3.81-2P",
+          2,
+          "CONN-TH_2P-P3.81_KF124-3.81-2P",
+          "J7,J8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ124-3.81-2P",
+            "BOM_Supplier Part": "C69811",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ed5b3ee480a64b78af4c9b4475973df4",
+            "uuid": "e4d89445f736ae18e5cd11ca33f02ba9"
+          }
+        ],
+        [
+          "SS-12D10L5",
+          1,
+          "SW-TH_SS-12D10L5",
+          "K1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319012",
+            "BOM_Manufacturer": "XKB Enterprise",
+            "BOM_Manufacturer Part": "SS-12D10L5",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b3186442abba4a598d5a8ce0923e0784",
+            "uuid": "43cfa1b6126d49ec90b793af9ceaf23a"
+          }
+        ],
+        [
+          "FJ3104BH",
+          1,
+          "LED-SEG-TH_10P-L12.7-W7.6-P2.54-LS5.08-TL",
+          "LEDS",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2938319",
+            "BOM_Manufacturer": "志浩",
+            "BOM_Manufacturer Part": "FJ3104BH",
+            "puuid": "5944cf81ad3c49889a1f6b9a4fef413e",
+            "uuid": "8532ee452e3845278d4d9b9974a35489"
+          }
+        ],
+        [
+          "510",
+          1,
+          "RES-TH_BD1.8-L3.2-P7.20-D0.4",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C713919",
+            "BOM_Manufacturer": "Huaxing Mechanical-Elec.",
+            "BOM_Manufacturer Part": "MF1/8W-10KΩ±1%T52",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "97467e7cb6374f7e9dd7fc644a47cfb1",
+            "uuid": "82ee27212e7647e5a7daf183a5f8c027"
+          }
+        ],
+        [
+          "510",
+          8,
+          "RES-TH_BD1.8-L3.2-P7.20-D0.4",
+          "R9,R10,R11,R12,R13,R14,R15,R16",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C119149",
+            "BOM_Manufacturer": "Chian Chia Elec",
+            "BOM_Manufacturer Part": "-",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "97467e7cb6374f7e9dd7fc644a47cfb1",
+            "uuid": "6e5f2e0d22bb43b8a68b0e5d6f6ff41c"
+          }
+        ],
+        [
+          "JPD1030-N521-4F",
+          1,
+          "DC-IN-TH_JPD1030-N521-4F",
+          "S1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C426213",
+            "BOM_Manufacturer": "FOXCONN(富士康)",
+            "BOM_Manufacturer Part": "JPD1030-N521-4F",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "a564b6f852904fb6a33dde11f7d9a41f",
+            "uuid": "185972ae91414fbaa12fc3848a16d82e"
+          }
+        ],
+        [
+          "HT7533-1_C32617",
+          1,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "HOLTEK",
+            "BOM_Manufacturer Part": "HT7533-1",
+            "BOM_Supplier Part": "C32617",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "b5276715350444fc953c05ed7973d5e8"
+          }
+        ],
+        [
+          "MAX3232CSE+",
+          1,
+          "SO-16_L10.0-W4.0-P1.27-LS6.2-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C143430",
+            "BOM_Manufacturer": "Maxim Integrated",
+            "BOM_Manufacturer Part": "MAX3232CSE+",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "bc7733f1cb97465fa6186a747e00cf10",
+            "uuid": "fcff959648984b5ab20aec0aab9ad5fa"
+          }
+        ]
+      ],
+      "updateTime": 1661831666,
+      "createTime": 1661509537,
+      "histories": [],
+      "created_at": "2022-08-26 18:25:37",
+      "updated_at": "2022-08-30 11:54:26"
+    },
+    {
+      "uuid": "476dd423b69db49148e398a364ba2c1b",
+      "puuid": "daa64284e3896adc92750b1b1ba45dc8",
+      "title": "PCB",
+      "filename": "PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2b3fbb5414f44fc7aab61b68e88a71b1": 8,
+        "3036750d1d0a4e9fa4035186551a7693": 7,
+        "153ed004b0794cb6b8a2ebde7a1aabdf": 1,
+        "d174dc03399042dd9fe60a9cfe46ef2e": 1,
+        "c2803222ad4b48fb94db0de548a6280a": 1,
+        "7d44990c66234bc2a29a866bfc3c5520": 1,
+        "ca0bf17b08674a46963bbfab0ef4c7f1": 1,
+        "991fb3862fde4eee819f058d0a833d7a": 2,
+        "26451eb86efa49429d9b50b4696b3b91": 1,
+        "ed5b3ee480a64b78af4c9b4475973df4": 2,
+        "b3186442abba4a598d5a8ce0923e0784": 1,
+        "5944cf81ad3c49889a1f6b9a4fef413e": 1,
+        "6924b36489de4921bb29ca14bf27c33f": 2,
+        "97467e7cb6374f7e9dd7fc644a47cfb1": 13,
+        "a564b6f852904fb6a33dde11f7d9a41f": 1,
+        "bc7733f1cb97465fa6186a747e00cf10": 1
+      },
+      "BOM": [],
+      "updateTime": 1661831660,
+      "createTime": 1661509594,
+      "histories": [],
+      "created_at": "2022-08-26 18:26:34",
+      "updated_at": "2022-08-30 11:54:20"
+    }
+  ],
+  "sort": [],
+  "title": "典型微控制系统设计开发",
+  "foldername": "典型微控制系统设计开发",
+  "schfilename": "典型微控制系统设计开发.json",
+  "schfilemtime": 1661831666695
+}
